@@ -1,2 +1,0 @@
-# Logic
-What is Logic?
